@@ -1,4 +1,4 @@
-# ACCU Bay Area Meetup Slides
+# Cpp Bay Area Meetup Slides
 
 This is a complete list of the topics and speakers for our meetup's formal
 presentation series since 2013. Also included are selected lightning talks
@@ -6,6 +6,7 @@ from our informal "workshop and discussion group" sessions.
 
 Hyperlinked titles point to PDF slide decks hosted within this git repository.
 
+* C++ Resources - [C++ Resources for Everyone - Jon Kalb](slides/2022-06-08-jon.pdf), [Two C++ Tools - Alison Chaiken](slides/2022-06-08-alison.pdf) [C++ Resources for All - Richard Powell](slides/2022-06-08-richard2.pdf)
 * Barbara Geller and Ansel Sermersheim — [Lambda Expressions & Concepts (C++17 and C++20)](slides/2020-12-09.pdf)
     — [Virtual, 2020-12-09](https://www.meetup.com/ACCU-Bay-Area/events/274581118/)
 * Bryce Adelstein Lelbach - [The CUDA C++ Standard Library](slides/2020-04-29.pdf)
