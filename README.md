@@ -6,7 +6,15 @@ from our informal "workshop and discussion group" sessions.
 
 Hyperlinked titles point to PDF slide decks hosted within this git repository.
 
+## 2022
+
+* Greg Law - [Getting the most out of GDB](slides/2020-07-13-greglaw.pdf)
+    - [Sunnyvale, 2022-07-13](https://www.meetup.com/cpp-bay-area/events/287160058/)
 * C++ Resources - [C++ Resources for Everyone - Jon Kalb](slides/2022-06-08-jon.pdf), [Two C++ Tools - Alison Chaiken](slides/2022-06-08-alison.pdf) [C++ Resources for All - Richard Powell](slides/2022-06-08-richard2.pdf)
+    - [Sunnyvale, 2022-06-08](https://www.meetup.com/cpp-bay-area/events/286080123/)
+
+## 2020
+
 * Barbara Geller and Ansel Sermersheim — [Lambda Expressions & Concepts (C++17 and C++20)](slides/2020-12-09.pdf)
     — [Virtual, 2020-12-09](https://www.meetup.com/ACCU-Bay-Area/events/274581118/)
 * Bryce Adelstein Lelbach - [The CUDA C++ Standard Library](slides/2020-04-29.pdf)
@@ -15,12 +23,18 @@ Hyperlinked titles point to PDF slide decks hosted within this git repository.
     — [Sunnyvale, 2020-02-12](https://www.meetup.com/ACCU-Bay-Area/events/268276345/)
 * Barbara Geller and Ansel Sermersheim — [Moving to C++17, Tricky Bits, Insightful Interview Questions](slides/2020-01-22.pdf)
     — [Sunnyvale, 2020-01-22](https://www.meetup.com/ACCU-Bay-Area/events/267819623/)
+
+## 2019
+
 * Jeff Cohen — [Understanding Monads via C++](slides/2019-05-08.pdf)
     — [Sunnyvale, 2019-05-08](https://www.meetup.com/ACCU-Bay-Area/events/261066982/)
 * Barbara Geller and Ansel Sermersheim — [Undefined Behavior Is Not An Error](slides/2019-02-13.pdf)
     — [Santa Clara, 2019-02-13](https://www.meetup.com/ACCU-Bay-Area/events/257575070/)
 * Conor Hoekstra — Algorithm Intuition
     — [Santa Clara, 2019-01-09](https://www.meetup.com/ACCU-Bay-Area/events/257565124/)
+
+## 2018
+
 * Jeff Cohen — [Dynamic Code Generation with LLVM](slides/2018-12-12.pdf)
     — [Sunnyvale, 2018-12-12](https://www.meetup.com/ACCU-Bay-Area/events/257050258/)
 * Adenilson Cavalcanti — [Optimizing zlib on ARM: The Power of NEON](slides/2018-12-05.pdf)
@@ -83,6 +97,9 @@ Hyperlinked titles point to PDF slide decks hosted within this git repository.
     — [Mountain View, 2018-01-10](https://www.meetup.com/ACCU-Bay-Area/events/246158951/)
 * Michael Klose — What I Wish People Knew About C++
     — [San Francisco, 2018-01-03](https://www.meetup.com/ACCU-Bay-Area/events/245867995/)
+
+## 2017
+
 * [Sumant Tambe — Systematic Generation of Data and Types in C++](slides/2017-12-13.pdf)
     — [Mountain View, 2017-12-13](https://www.meetup.com/ACCU-Bay-Area/events/jgndwlywqbrb/)
 * [Olivier Giroux — Designing C++ Hardware](slides/2017-12-06.pdf)
@@ -155,6 +172,9 @@ Hyperlinked titles point to PDF slide decks hosted within this git repository.
     — [Palo Alto, 2017-01-25](https://www.meetup.com/ACCU-Bay-Area/events/234365838/)
 * Bryce Adelstein Lelbach — The C++17 Parallel Algorithms
     — [Mountain View, 2017-01-11](https://www.meetup.com/ACCU-Bay-Area/events/236621722/)
+
+## 2016
+
 * [Arthur O'Dwyer — std::regex (lightning talk)](slides/2017-01-10.pdf)
     — [San Francisco, 2016-01-10](https://www.meetup.com/ACCU-Bay-Area/events/236274746/)
 * Bryce Adelstein Lelbach — std::transform_reduce (lightning talk)
@@ -227,6 +247,9 @@ Hyperlinked titles point to PDF slide decks hosted within this git repository.
     — [Mountain View, 2016-01-13](https://www.meetup.com/ACCU-Bay-Area/events/225772179/)
 * [Bjarne Stroustrup — No Littering!](slides/2016-01-12.pdf)
     — [Mountain View, 2016-01-12](https://www.meetup.com/ACCU-Bay-Area/events/227941529/)
+
+## 2015
+
 * [Dustin Chase — Operator overloading (lightning talk)](slides/2015-12-14-dustin.pdf)
     — [San Francisco, 2015-12-14](https://www.meetup.com/SF-Bay-Area-Cpp/events/226669747/)
 * Ragi Burhum — Cross-platform C++ development (lightning talk)
@@ -283,6 +306,9 @@ Hyperlinked titles point to PDF slide decks hosted within this git repository.
     — [San Francisco, 2015-01-21](https://www.meetup.com/SF-Bay-Area-Cpp/events/219805577/)
 * [Sean Parent — Better Code: Concurrency](slides/2015-01-14.pdf)
     — [Mountain View, 2015-01-14](https://www.meetup.com/ACCU-Bay-Area/events/217834432/)
+
+## 2014
+
 * [Hans Wennborg — Clang/LLVM on Windows](slides/2014-12-10.pdf)
     — [Mountain View, 2014-12-10](https://www.meetup.com/ACCU-Bay-Area/events/194137632/)
 * [Arthur O'Dwyer — C++11's New Pointer Types](slides/2014-12-09.pdf)
@@ -327,6 +353,9 @@ Hyperlinked titles point to PDF slide decks hosted within this git repository.
     — [Mountain View, 2014-01-22](https://www.meetup.com/ACCU-Bay-Area/events/157327812/)
 * John Reiser — Adventures in Program Profiling
     — [Mountain View, 2014-01-08](https://www.meetup.com/ACCU-Bay-Area/events/154425672/)
+
+## 2013
+
 * Ivan Godard — Metadata in the Mill CPU
     — [Mountain View, 2013-12-11](https://www.meetup.com/ACCU-Bay-Area/events/147733012/)
 * Arthur O'Dwyer — UTF-8 to Latin-1 at compile time (lightning talk)
