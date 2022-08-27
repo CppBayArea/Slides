@@ -8,7 +8,9 @@ Hyperlinked titles point to PDF slide decks hosted within this git repository.
 
 ## 2022
 
-* Greg Law - [Getting the most out of GDB](slides/2020-07-13-greglaw.pdf)
+* Christopher McArthur - [Wake up from the nightmare of using external dependencies with Conan](slides/2022-08-10-Christopher-McArthur.pdf)
+    - [Sunnyvale, 2022-08-10](https://www.meetup.com/cpp-bay-area/events/287270517/)
+* Greg Law - [Getting the most out of GDB](slides/2022-07-13-greglaw.pdf)
     - [Sunnyvale, 2022-07-13](https://www.meetup.com/cpp-bay-area/events/287160058/)
 * C++ Resources - [C++ Resources for Everyone - Jon Kalb](slides/2022-06-08-jon.pdf), [Two C++ Tools - Alison Chaiken](slides/2022-06-08-alison.pdf) [C++ Resources for All - Richard Powell](slides/2022-06-08-richard2.pdf)
     - [Sunnyvale, 2022-06-08](https://www.meetup.com/cpp-bay-area/events/286080123/)
