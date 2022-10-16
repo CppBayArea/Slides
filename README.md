@@ -8,6 +8,8 @@ Hyperlinked titles point to PDF slide decks hosted within this git repository.
 
 ## 2022
 
+* Richard Powell - [Exploring Deducing this (and what else I learned at CppCon 2022)](slides/2022-10-12-RichardPowell.pdf)
+    - [Sunnyvale, 2022-10-12](https://www.meetup.com/cpp-bay-area/events/288716723/)
 * Christopher McArthur - [Wake up from the nightmare of using external dependencies with Conan](slides/2022-08-10-Christopher-McArthur.pdf)
     - [Sunnyvale, 2022-08-10](https://www.meetup.com/cpp-bay-area/events/287270517/)
 * Greg Law - [Getting the most out of GDB](slides/2022-07-13-greglaw.pdf)
