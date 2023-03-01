@@ -6,6 +6,13 @@ from our informal "workshop and discussion group" sessions.
 
 Hyperlinked titles point to PDF slide decks hosted within this git repository.
 
+## 2023
+
+* Richard Powell - [Creating a Declarative UI Library in C++ with wxWidgets (Part 1)](slides/2023-02-21-RichardPowell-DeclarativeUI.pdf)
+    - [Sunnyvale, 2023-02-21](https://www.meetup.com/cpp-bay-area/events/291429740/)
+* Pejman Ghorbanzade - [Finding regressions in mission critical software workflows](slides/2023-01-10-Pejman-Ghorbanzade.pdf)
+    - [Sunnyvale, 2023-01-10](https://www.meetup.com/cpp-bay-area/events/290564227/)
+
 ## 2022
 
 * Richard Powell - [Exploring Deducing this (and what else I learned at CppCon 2022)](slides/2022-10-12-RichardPowell.pdf)
