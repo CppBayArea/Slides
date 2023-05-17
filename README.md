@@ -10,7 +10,7 @@ Hyperlinked titles point to PDF slide decks hosted within this git repository.
 
 * Nick Thompson - [Property-Based Testing](slides/2023-05-16-Nick-Thompson-Property-Based-Testing.pdf)
     - [Sunnyvale, 2023-05-16](https://www.meetup.com/cpp-bay-area/events/292397777/)
-* KiranKamity - [Uncovering Hidden Security Risks in C++ Apps with LD_PRELOAD and API Interception](slides/2023-04-11-Kiran-Kamity.pdf)
+* Kiran Kamity - [Uncovering Hidden Security Risks in C++ Apps with LD_PRELOAD and API Interception](slides/2023-04-11-Kiran-Kamity.pdf)
     - [Sunnyvale, 2023-04-11](https://www.meetup.com/cpp-bay-area/events/292397654/)
 * Richard Powell - [Creating a Declarative UI Library in C++ with wxWidgets (Part 1)](slides/2023-02-21-RichardPowell-DeclarativeUI.pdf)
     - [Sunnyvale, 2023-02-21](https://www.meetup.com/cpp-bay-area/events/291429740/)
