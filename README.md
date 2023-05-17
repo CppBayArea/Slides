@@ -12,6 +12,8 @@ Hyperlinked titles point to PDF slide decks hosted within this git repository.
     - [Sunnyvale, 2023-05-16](https://www.meetup.com/cpp-bay-area/events/292397777/)
 * Kiran Kamity - [Uncovering Hidden Security Risks in C++ Apps with LD_PRELOAD and API Interception](slides/2023-04-11-Kiran-Kamity.pdf)
     - [Sunnyvale, 2023-04-11](https://www.meetup.com/cpp-bay-area/events/292397654/)
+* Andrew Wong - Asynchronous Thread Per Core Architecture in C++
+    - [Sunnyvale, 2023-03-14](https://www.meetup.com/cpp-bay-area/events/292018091/)
 * Richard Powell - [Creating a Declarative UI Library in C++ with wxWidgets (Part 1)](slides/2023-02-21-RichardPowell-DeclarativeUI.pdf)
     - [Sunnyvale, 2023-02-21](https://www.meetup.com/cpp-bay-area/events/291429740/)
 * Pejman Ghorbanzade - [Finding regressions in mission critical software workflows](slides/2023-01-10-Pejman-Ghorbanzade.pdf)
