@@ -8,6 +8,9 @@ Hyperlinked titles point to PDF slide decks hosted within this git repository.
 
 ## 2023
 
+* Amir Kirsh - [Six ways for Implementing Math Expressions Calculator](slides/2023-06-13-Amir-Kirsh-Six-ways-for-Implementing-Math-Expressions-Calculator.pdf)
+    - [Sunnyvale, 2023-06-13](https://www.meetup.com/cpp-bay-area/events/292397833/)
+    - [Video](https://www.youtube.com/watch?v=Klxp73bVhn4)
 * Nick Thompson - [Property-Based Testing](slides/2023-05-16-Nick-Thompson-Property-Based-Testing.pdf)
     - [Sunnyvale, 2023-05-16](https://www.meetup.com/cpp-bay-area/events/292397777/)
 * Kiran Kamity - [Uncovering Hidden Security Risks in C++ Apps with LD_PRELOAD and API Interception](slides/2023-04-11-Kiran-Kamity.pdf)
