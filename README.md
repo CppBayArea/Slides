@@ -8,6 +8,9 @@ Hyperlinked titles point to PDF slide decks hosted within this git repository.
 
 ## 2023
 
+* Ed Yu - [WTF is Build.Zig?](slides/2023-07-11-Ed-Yu-WTF-is-Build-Zig.pdf)
+    - [Sunnyvale, 2023-07-11](https://www.meetup.com/cpp-bay-area/events/294744019/)
+    - [Video](https://www.youtube.com/watch?v=-XLSyaJ6m3o)
 * Amir Kirsh - [Six ways for Implementing Math Expressions Calculator](slides/2023-06-13-Amir-Kirsh-Six-ways-for-Implementing-Math-Expressions-Calculator.pdf)
     - [Sunnyvale, 2023-06-13](https://www.meetup.com/cpp-bay-area/events/292397833/)
     - [Video](https://www.youtube.com/watch?v=Klxp73bVhn4)
