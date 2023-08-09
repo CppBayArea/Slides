@@ -8,6 +8,9 @@ Hyperlinked titles point to PDF slide decks hosted within this git repository.
 
 ## 2023
 
+* strager - [C++ reflection via C++ code generation in C++](slides/2023-08-08-strager-C++-reflection-via-C++-code-generation-in-C++.pdf)
+    - [Sunnyvale, 2023-08-08](https://www.meetup.com/cpp-bay-area/events/294318689/)
+    - [Video](https://www.youtube.com/watch?v=uFWW3gSxrig)
 * Ed Yu - [WTF is Build.Zig?](slides/2023-07-11-Ed-Yu-WTF-is-Build-Zig.pdf)
     - [Sunnyvale, 2023-07-11](https://www.meetup.com/cpp-bay-area/events/294744019/)
     - [Video](https://www.youtube.com/watch?v=-XLSyaJ6m3o)
