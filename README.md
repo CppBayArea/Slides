@@ -8,6 +8,9 @@ Hyperlinked titles point to PDF slide decks hosted within this git repository.
 
 ## 2023
 
+* Nick Thompson - [Intro to 64 bit ARM Assembly: From Basics to Party Tricks](slides/2023-09-19-Nick-Thompson-Intro-to-ARM-Assembly.pdf)
+    - [Sunnyvale, 2023-09-19](https://www.meetup.com/cpp-bay-area/events/294318702/)
+    - [Video](https://www.youtube.com/watch?v=3ixTKrE8lv8)
 * strager - [C++ reflection via C++ code generation in C++](slides/2023-08-08-strager-C++-reflection-via-C++-code-generation-in-C++.pdf)
     - [Sunnyvale, 2023-08-08](https://www.meetup.com/cpp-bay-area/events/294318689/)
     - [Video](https://www.youtube.com/watch?v=uFWW3gSxrig)
