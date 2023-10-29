@@ -8,6 +8,9 @@ Hyperlinked titles point to PDF slide decks hosted within this git repository.
 
 ## 2023
 
+* Victor Zverovich - [{fmt}: The Cool Parts](slides/2023-10-17-Victor-Zverovich-fmt-The-Cool-Parts.pdf)
+    - [Mountain View, 2023-10-17](https://www.meetup.com/cpp-bay-area/events/296175002/)
+    - [Video](https://www.youtube.com/watch?v=50sQUgBZCIA)
 * Nick Thompson - [Intro to 64 bit ARM Assembly: From Basics to Party Tricks](slides/2023-09-19-Nick-Thompson-Intro-to-ARM-Assembly.pdf)
     - [Sunnyvale, 2023-09-19](https://www.meetup.com/cpp-bay-area/events/294318702/)
     - [Video](https://www.youtube.com/watch?v=3ixTKrE8lv8)
