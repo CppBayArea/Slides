@@ -6,6 +6,11 @@ from our informal "workshop and discussion group" sessions.
 
 Hyperlinked titles point to PDF slide decks hosted within this git repository.
 
+## 2024
+
+* Aditya Gurajada - [L3-LOC: Lightweight Logging Library](slides/2024-06-18-Aditya-Gurajada-L3-LOC-Lightweight-Logging-Library.pdf)
+    - [Sunnyvale, 2024-06-18](https://www.meetup.com/cpp-bay-area/events/301054509/)
+
 ## 2023
 
 * Victor Zverovich - [{fmt}: The Cool Parts](slides/2023-10-17-Victor-Zverovich-fmt-The-Cool-Parts.pdf)
